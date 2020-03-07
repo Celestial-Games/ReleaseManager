@@ -12,6 +12,10 @@ We value Release Manager but as a company Celestial is moving forward to focus o
 
 We use Release Manager for our own projects so another value from making it open source is more testing. This will help us be certain that it is more stable.
 
+## Source code
+
+We are removing the jre's from the code and some other restrictions that prevent us from sharing it on here yet. Once those changes have been made we will push up the code.
+
 ## Discussion and support
 
 We are centralizing all our online support through Discord. There is an open chanel [here](https://discord.gg/SsNpTg).
@@ -19,3 +23,14 @@ We are centralizing all our online support through Discord. There is an open cha
 ## Perks for people that bought Release Manager
 
 We are considering perks for those who in fact bought Release Manager while it was commercial. Please send some suggestions if you have some.
+
+## Download
+
+You can download the current working Beta build for windows from here. This version has had all the licensing requirements removed.
+
+[Release Manager Beta (wind64)](http://releasemanager.celestial-games.com/beta/ReleaseManagerBeta64.msi)
+
+## Links
+
+[wiki](http://info.celestial-games.com/doku.php?id=releasemanager)
+[unity wip forum post](https://forum.unity.com/threads/wip-release-manager-installer-patcher-launcher.313569/)
