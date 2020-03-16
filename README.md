@@ -6,6 +6,12 @@ Release Manager is a Release and Patching tool for any software project. Release
 
 Currently we are reworking the source code to be GPL some files included are not suitable for distribution and have to be removed.
 
+### Current Priority
+
+- Move to Gradle
+- Change build requirements to reduce complexity
+- Change to OpenJDK JRE's
+
 ## Why open source
 
 We value Release Manager but as a company Celestial is moving forward to focus on game development rather then tools as it's business. By making Release Manager open source we can support it easier as it removes the commercial effort and lets us only focus on the product.
