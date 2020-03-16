@@ -18,7 +18,7 @@ We are removing the jre's from the code and some other restrictions that prevent
 
 ## Discussion and support
 
-We are centralizing all our online support through Discord. There is an open chanel [here](https://discord.gg/SsNpTg).
+We are centralizing all our online support through Discord. There is an open chanel [here](https://discord.gg/H9ftykS).
 
 ## Perks for people that bought Release Manager
 
