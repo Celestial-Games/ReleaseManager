@@ -34,3 +34,4 @@ You can download the current working Beta build for windows from here. This vers
 
 [wiki](http://info.celestial-games.com/doku.php?id=releasemanager)
 [unity wip forum post](https://forum.unity.com/threads/wip-release-manager-installer-patcher-launcher.313569/)
+[roadmap]https://trello.com/b/qxZ8ye1M/release-manager
